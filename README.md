@@ -1,6 +1,8 @@
 # Macula-SBLGNTa
 Macula SBLGNT adapted
 
+Note:
+- `κατ[TAB]’[TAB]` ⇒ `κατ’[TAB][TAB]`
 
 
 
